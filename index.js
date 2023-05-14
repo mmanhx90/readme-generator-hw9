@@ -1,7 +1,7 @@
 // TODO: Include packages needed for this application
 const fs = require('fs')
 const inquirer = require('inquirer')
-const utils = requier('utils')
+const util = require('util')
 const generateMarkdown = require('./utils/generateMarkdown')
 
 
@@ -34,7 +34,7 @@ const questions = [
     },
     {
         type: 'list',
-        name: 'liscense',
+        name: 'license',
         message: 'What liscense did you use?',
 
 

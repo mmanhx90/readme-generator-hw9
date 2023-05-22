@@ -30,7 +30,6 @@
   ## test
   By using the intergrated terminal with in VS Code.
 
- 
- 
+  ![recording of usage](https://drive.google.com/file/d/1j8Q_Jl0bRkkRI6NPQjxFdP4FBoPDXmO3/view)
  
   ![alt text](images/Screenshot.png)

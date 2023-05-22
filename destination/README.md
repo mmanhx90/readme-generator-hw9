@@ -2,7 +2,7 @@
   https://github.com/mmanhx90/readme generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # Description
-  to be able toe create a readme using the terminal
+  to be able to generate a readme using the terminal
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -17,7 +17,7 @@
   node and inquirer
 
   ## usage
-  it is used by using the the terminal
+  it is used utilizing the terminal
   
   
 ## license

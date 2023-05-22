@@ -1,8 +1,8 @@
-# readme-generator-hw9
-  https://github.com/MManhx90/readme-generator-hw9
+# readme generator
+  https://github.com/mmanhx90/readme generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   # Description
-  To create a professional READme.md generator for all future homework assignments. It consists of all the contents that would be in a professional READme.md
+  to be able toe create a readme using the terminal
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
@@ -14,10 +14,10 @@
   
 
   ## installation
-  Use node and iquirer.
+  node and inquirer
 
   ## usage
-  It is used within the terminal.
+  it is used by using the the terminal
   
   
 ## license
@@ -25,9 +25,9 @@
   MIT
 
   ## credits
-  Michael Manhxaythavong
+  michael manhxaythavong
 
   ## test
-  By using the intergrated terminal with in VS Code.
+  using the integrated terminal in vs code
 
 

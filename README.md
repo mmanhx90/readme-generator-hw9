@@ -14,7 +14,7 @@
   
 
   ## installation
-  Use node and iquirer.
+  Used node and iquirer.
 
   ## usage
   It is used within the terminal.
@@ -29,3 +29,8 @@
 
   ## test
   By using the intergrated terminal with in VS Code.
+
+ 
+ 
+ 
+  ![alt text](images/Screenshot.png)
